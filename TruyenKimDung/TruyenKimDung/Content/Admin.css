@@ -1,0 +1,15 @@
+﻿div{
+    padding: 7px 0px 10px 0px;
+}
+body {
+    font-family:Arial;
+    font-size:12px;
+}
+a{
+    text-decoration:none;
+    color:blue;
+}
+a:hover{
+    color:red;
+}
+

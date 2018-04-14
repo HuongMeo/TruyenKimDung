@@ -26,5 +26,10 @@ namespace TruyenKimDung.Admin.Truyen
             rptDSTruyen.DataSource = truyen.HienThiDSTruyen();
             rptDSTruyen.DataBind();
         }
+
+        protected void lnkThemTruyen_Click(object sender, EventArgs e)
+        {
+            mul.ActiveViewIndex = 1;
+        }
     }
 }

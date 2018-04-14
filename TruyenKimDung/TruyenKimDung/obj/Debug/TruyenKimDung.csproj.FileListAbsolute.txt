@@ -20,7 +20,6 @@ D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\Micr
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\Microsoft.Win32.Primitives.dll
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\System.AppContext.dll
-D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\System.Collections.Immutable.dll
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\System.Console.dll
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\System.Diagnostics.Process.dll
@@ -88,3 +87,4 @@ D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\obj\Debug\Truye
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\obj\Debug\TruyenKimDung.pdb
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\TruyenKimDung.DAL.dll
 D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\TruyenKimDung.DAL.pdb
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung\bin\roslyn\System.Collections.Immutable.dll

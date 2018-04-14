@@ -11,7 +11,13 @@ namespace TruyenKimDung
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            switch (Request["f"])
+            {
+                case "new":
+                    Controls.Add(LoadControl("User/Truyen/DSTruyenControl.ascx"));
+                    break;
 
+            }
         }
     }
 }

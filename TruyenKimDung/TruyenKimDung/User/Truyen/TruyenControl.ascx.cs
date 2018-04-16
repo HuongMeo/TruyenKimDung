@@ -11,6 +11,15 @@ namespace TruyenKimDung.User.UTruyen
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            switch (Request["fs"])
+            {
+                case "detail":
+                    Controls.Add(LoadControl("ChiTietTruyenControl.ascx"));
+                    break;
+                default:
+                    Controls.Add(LoadControl("DSTruyenControl.ascx"));
+                    break;
+            }
 
         }
     }

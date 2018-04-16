@@ -13,8 +13,8 @@ namespace TruyenKimDung
         {
             switch (Request["f"])
             {
-                case "new":
-                    Controls.Add(LoadControl("User/Truyen/DSTruyenControl.ascx"));
+                case "truyen":
+                    Controls.Add(LoadControl("User/Truyen/TruyenControl.ascx"));
                     break;
 
             }

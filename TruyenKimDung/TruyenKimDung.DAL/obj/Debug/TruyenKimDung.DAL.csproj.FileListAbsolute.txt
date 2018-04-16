@@ -1,0 +1,9 @@
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\bin\Debug\TruyenKimDung.DAL.dll
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\bin\Debug\TruyenKimDung.DAL.pdb
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\bin\Debug\SQLDB.dll
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\bin\Debug\SQLDB.pdb
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\obj\Debug\TruyenKimDung.DAL.csprojResolveAssemblyReference.cache
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\obj\Debug\TruyenKimDung.DAL.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\obj\Debug\TruyenKimDung.DAL.csproj.CopyComplete
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\obj\Debug\TruyenKimDung.DAL.dll
+D:\VisualStudioProject\TruyenKimDung\TruyenKimDung\TruyenKimDung.DAL\obj\Debug\TruyenKimDung.DAL.pdb
